@@ -11,6 +11,9 @@
 🌟 Enthusiast in **AI/ML**, with a keen interest in **deep learning and generative AI**.<br>
 🤝 Actively seeking opportunities to collaborate and build impactful solutions.<br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitjangid2704)
+[![X-Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitjangid27)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohitjangid.9)
 ---
 
 ### ⚡ Languages and Frameworks
@@ -160,12 +163,6 @@
 ![SSoC Badge](https://img.shields.io/badge/SSoC-000000?style=flat-square&logo=opensourceinitiative&logoColor=white) Contributed to SSoC’23 Face-X project by implementing face mask detection using Artificial Neural Network.<br>
 
 ---
-
-## 🤝 Connect with me!!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitjangid2704)
-[![X-Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitjangid27)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohitjangid.9)
 
 <p align="left">
   <img
