@@ -90,7 +90,7 @@
 
 ### 👨‍💻 Work Experience
 
-<img align="right" alt="coding" width="200" src="https://github.com/Rohitjangid2704/flexmoneyBackend/blob/main/Picsart_24-06-27_13-18-32-222.png">
+<img align="right" alt="coding" width="170" src="https://github.com/Rohitjangid2704/flexmoneyBackend/blob/main/Picsart_24-06-27_13-18-32-222.png">
 
 **Software Development Engineer Intern**  
 *ISRO - Indian Space Research Organisation, Ahmedabad, Gujarat, India*  
