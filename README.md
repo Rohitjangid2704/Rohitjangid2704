@@ -122,33 +122,7 @@
 ![REST APIs Badge](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=rest&logoColor=white)
 ![Google Auth Badge](https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/rohitjangid7373" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="rohitjangid7373"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/rohit jangid" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="rohit jangid"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https:" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="rohitjangid2704"
-      height="30"
-      width="40"
-  /></a>
-</p>
+
 
 ---
 
