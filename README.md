@@ -90,11 +90,10 @@
 
 ### 👨‍💻 Work Experience
 
+**Software Development Engineer Intern**<br>
 <img align="right" alt="coding" width="150" src="https://github.com/Rohitjangid2704/flexmoneyBackend/blob/main/Picsart_24-06-27_13-18-32-222.png">
-
-<b>**Software Development Engineer Intern**
-*ISRO - Indian Space Research Organisation, Ahmedabad, Gujarat, India*  
-*January 2024 - April 2024*  
+*ISRO - Indian Space Research Organisation, Ahmedabad, Gujarat, India* <br>
+*January 2024 - April 2024*
 
 - Implemented a GPT-based transformer solution to predict maritime vessel trajectories from incomplete AIS data, improving navigation safety. Addressed data challenges through advanced pre-processing and custom interpolation, enhancing AIS data quality by 30% using PCHIP. Developed an application for visualizing integrated AIS and SAR data, aiding maritime navigation and security.<br>
 **Tech Stack**<br>
@@ -108,8 +107,8 @@
 ![Data Pre-processing Badge](https://img.shields.io/badge/Data%20Pre--processing-007D8A?style=flat-square)
 ![Interpolation Techniques Badge](https://img.shields.io/badge/Interpolation%20Techniques-00A1E4?style=flat-square)
 
-<img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/Rohitjangid2704/flexmoneyBackend/main/celebal-logo.webp"> <br>
 **Software Engineer Intern**  
+<img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/Rohitjangid2704/flexmoneyBackend/main/celebal-logo.webp">
 *Celebal Technologies, Jaipur, Rajasthan, India*  
 *June 2023 - August 2023* 
 - Designed a scalable Node.js API for a real estate website, optimizing speed and reliability, and integrated secure authentication with Google Auth and JSON Web Tokens. Collaborated remotely on code reviews and best practices, reducing bugs by 25% and enhancing code quality.<br>
