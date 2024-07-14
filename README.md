@@ -14,6 +14,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitjangid2704)
 [![X-Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohitjangid27)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohitjangid.9)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=rohitjangid2704&label=Profile%20views&color=0e75b6&style=flat"
+    alt="rohitjangid2704"
+  />
+</p>
 ---
 
 ### ⚡ Languages and Frameworks
@@ -137,11 +143,6 @@
 
 ---
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=rohitjangid2704&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rohitjangid2704"
-  />
-</p>
+
 
 
